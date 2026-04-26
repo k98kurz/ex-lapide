@@ -19,9 +19,9 @@ once humanity grew too noisy. Their withdrawal preciptated the Bronze Age
 collapse. Humanity then developed technologically with a materialist mindset and
 eventually reawakened the Old Gods when they started mining the planets. The Old
 Gods then selected Avatars to rule empires that expanded through the stars but
-eventually warred with each other and nearly destroyed Earth, leading the humans
-to revolt and imprison the Gods in sarcophagi. The sarcophagi were entombed on a
-secret, remote planet by a lone philosopher-warlock.
+eventually warred with each other and nearly destroyed Earth, leading to the
+humans revolting and imprisoning the Gods in sarcophagi. The sarcophagi were
+entombed on a secret, remote planet by a lone philosopher-warlock.
 
 Then the Rot spread through the universe, infecting spacetime itself and causing
 accelerated entropy and other maladies of physics. Humanity largely lost their
@@ -47,6 +47,6 @@ animate.
 - Maraze (Mars/Ares/Tyr) -- warfare and power
 - Juzeve (Jupiter/Zeus/Marduk) -- politics, bureaucracy, and commerce
 - Stranut (Saturn/Cronus/Thanatos) -- death, harvesting, and planned obsolescence
-- Ouraniose (Uranus/Caelus/Anu) -- surveillance and coercion/culling
+- Ouraniose (Uranus/Caelus/Anu) -- surveillance, coercion, and cullings
 - Nupteze (Neptune/Poseidon/Enki) -- oceans and magma (liquid/instability)
 
