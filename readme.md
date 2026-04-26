@@ -2,8 +2,8 @@
 
 The core concept is to develop a detailed and coherent sci-fi fantasy setting
 which can serve as the basis/grounding for other works, e.g. video games,
-graphic novels, etc. The structure of this repository is a list of plain text
-markdown documents containing the lore of the Ex Lapide world.
+graphic novels, etc. This repository contains plain text markdown documents with
+lore of the Ex Lapide world, organized into core/ and anthologies/ directories.
 
 ## Name and Setting
 
