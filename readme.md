@@ -14,7 +14,7 @@ additionally refer to the planets that housed the Morphic Resonances that became
 the Old Gods as well as the Earth from which humanity arose.
 
 The basic idea is that the Old Gods arose alongside the First Humans, then
-withdrew to the planets (Venus, Mercury, Mars, Jupiter, Saturn, Uranus, Neptune)
+withdrew to the planets (Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune)
 once humanity grew too noisy. Their withdrawal preciptated the Bronze Age
 collapse. Humanity then developed technologically with a materialist mindset and
 eventually reawakened the Old Gods when they started mining the planets. The Old
