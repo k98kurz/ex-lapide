@@ -21,18 +21,22 @@ eventually reawakened the Old Gods when they started mining the planets. The Old
 Gods then selected Avatars to rule empires that expanded through the stars but
 eventually warred with each other and nearly destroyed Earth, leading to the
 humans revolting and imprisoning the Gods in sarcophagi. The sarcophagi were
-entombed on a secret, remote planet by a lone philosopher-warlock.
+entombed on a secret, remote planet by a lone philosopher-warlock, the "Son of
+the Sun, Savior of Days", whose 72 Acolytes sacrifice themselves to create a
+sigil megastructure called the Iconostasis to protect the Solar System. The
+equal and opposite reaction to the creation of the Iconostasis was the Rot.
 
-Then the Rot spread through the universe, infecting spacetime itself and causing
-accelerated entropy and other maladies of physics. Humanity largely lost their
-collective knowledge and technology, and through evolution became a multiplicity
-of species mutually unrecognizable. The sleeping Old Gods were also affected by
-the Rot, and the seals preventing their release withered. When the Rot subsided,
-the offspring of humanity rebuilt civilizations and resumed their expansion
-through the stars, with one colony accidentally awakening the Archons from the
-sarcophagi of the Old Gods. These Archons, having forgotten much of their past,
-formed a new Covenant and resumed their projects of establishing religious
-empires, thus reintroducing the impetus for endless conquest.
+The Rot spread through the universe, infecting spacetime itself and causing
+accelerated entropy and other maladies of physics. Outside of the Solar System,
+which functioned as an Ark, humanity largely lost their collective knowledge and
+technology, and through genetic drift became a multiplicity of species mutually
+unrecognizable. The sleeping Old Gods were also affected by the Rot, and the
+seals preventing their release withered. When the Rot subsided, the offspring of
+humanity rebuilt civilizations and resumed their expansion through the stars,
+with one colony accidentally awakening the Archons from the sarcophagi of the
+Old Gods. These Archons, having forgotten much of their past, formed a new
+Covenant and resumed their projects of establishing religious empires, thus
+reintroducing the impetus for endless conquest.
 
 ## Archons
 
